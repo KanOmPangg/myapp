@@ -1,5 +1,5 @@
 package myapp;
 
 public class Cat {
-    public String Text;
+    public int a;
 }
